@@ -1,0 +1,9 @@
+# MCP Server Setup Progress
+
+- [ ] Create MCP server directory
+- [ ] Clone perplexity-mcp repository
+- [ ] Install npm dependencies
+- [ ] Build the project
+- [ ] Create cline_mcp_settings.json with server configuration
+- [ ] Ask user for Perplexity API key
+- [ ] Test the server with a tool

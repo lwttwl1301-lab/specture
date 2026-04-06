@@ -1,0 +1,24 @@
+{
+  "single_peak": {
+    "sample_count": 300,
+    "mean_error": 1.8053541605430379,
+    "median_error": 0.9212239282036876,
+    "precision_1nm": 54.333333333333336,
+    "precision_5nm": 94.0
+  },
+  "double_peak": {
+    "sample_count": 300,
+    "count_accuracy": 100.0,
+    "mean_error": 41.259723268983905,
+    "median_error": 12.233059843250544,
+    "precision_1nm": 4.0,
+    "precision_5nm": 20.166666666666664
+  },
+  "overall": {
+    "total_samples": 900,
+    "mean_error": 28.108266899503615,
+    "median_error": 6.847716680957774,
+    "precision_1nm": 20.77777777777778,
+    "precision_5nm": 44.77777777777778
+  }
+}

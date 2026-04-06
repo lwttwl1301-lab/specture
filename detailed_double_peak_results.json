@@ -1,0 +1,28 @@
+{
+  "overall_accuracy": 100.0,
+  "mean_error": 76.55706690553758,
+  "median_error": 10.749740227767234,
+  "precision_1nm": 5.1,
+  "precision_2nm": 10.9,
+  "precision_5nm": 30.599999999999998,
+  "region_results": {
+    "main": {
+      "accuracy": 100.0,
+      "mean_error": 9.78029289073758,
+      "precision_5nm": 33.68421052631579,
+      "total_samples": 166
+    },
+    "low": {
+      "accuracy": 100.0,
+      "mean_error": 5.290168485783967,
+      "precision_5nm": 51.13636363636363,
+      "total_samples": 166
+    },
+    "high": {
+      "accuracy": 100.0,
+      "mean_error": 4.335792999228905,
+      "precision_5nm": 69.76744186046511,
+      "total_samples": 168
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "argmax": {
+    "mean_error": 20.552838885172925,
+    "median_error": 4.700967332845039,
+    "acc_1nm": 17.5,
+    "acc_2nm": 30.4,
+    "acc_5nm": 51.5
+  },
+  "parabolic": {
+    "mean_error": 20.550635797273852,
+    "median_error": 4.775061985523507,
+    "acc_1nm": 16.75,
+    "acc_2nm": 30.5,
+    "acc_5nm": 51.24999999999999
+  },
+  "gaussian_fit": {
+    "mean_error": 19.98209558040349,
+    "median_error": 4.174972836271536,
+    "acc_1nm": 25.25,
+    "acc_2nm": 38.5,
+    "acc_5nm": 52.300000000000004
+  },
+  "improvement": {
+    "mean_percent": 0.010719141581273121,
+    "median_percent": -1.5761575742247493
+  }
+}
